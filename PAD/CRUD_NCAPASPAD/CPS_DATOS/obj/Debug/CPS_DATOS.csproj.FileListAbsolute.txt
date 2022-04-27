@@ -1,0 +1,15 @@
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.csprojResolveAssemblyReference.cache
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.csprojResolveAssemblyReference.cache
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.pdb
+D:\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.dll
+D:\PAD\CRUD_NCAPASPAD\CPS_DATOS\bin\Debug\CPS_DATOS.pdb
+D:\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.csprojResolveAssemblyReference.cache
+D:\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.dll
+D:\PAD\CRUD_NCAPASPAD\CPS_DATOS\obj\Debug\CPS_DATOS.pdb

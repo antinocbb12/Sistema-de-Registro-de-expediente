@@ -1,0 +1,54 @@
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe.config
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csprojResolveAssemblyReference.cache
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Form1.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Properties.Resources.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csproj.GenerateResource.Cache
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.exe
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromprincipal.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromestudiante.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromObservaciones.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.frombachiller.resources
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromReportes.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe.config
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.exe
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csprojResolveAssemblyReference.cache
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Form1.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.frombachiller.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromestudiante.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromObservaciones.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromprincipal.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromReportes.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Properties.Resources.resources
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csproj.GenerateResource.Cache
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe.config
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.exe
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.pdb
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.exe
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\sotfwar.pdb
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.dll
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.dll
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_NEGOCIO.pdb
+D:\PAD\CRUD_NCAPASPAD\sotfwar\bin\Debug\CPS_DATOS.pdb
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csprojResolveAssemblyReference.cache
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Form1.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.frombachiller.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromestudiante.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromObservaciones.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromprincipal.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.fromReportes.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.Properties.Resources.resources
+D:\PAD\CRUD_NCAPASPAD\sotfwar\obj\Debug\sotfwar.csproj.GenerateResource.Cache

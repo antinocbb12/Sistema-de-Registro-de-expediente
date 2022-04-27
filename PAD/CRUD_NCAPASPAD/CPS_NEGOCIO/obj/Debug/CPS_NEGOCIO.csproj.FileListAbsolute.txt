@@ -1,0 +1,21 @@
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.pdb
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.csprojResolveAssemblyReference.cache
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.dll
+D:\chusco\cursos\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.pdb
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.csprojResolveAssemblyReference.cache
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.dll
+D:\semestres\2018 I\sotfwar\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.pdb
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.dll
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_NEGOCIO.pdb
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.dll
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\bin\Debug\CPS_DATOS.pdb
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.csprojResolveAssemblyReference.cache
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.dll
+D:\PAD\CRUD_NCAPASPAD\CPS_NEGOCIO\obj\Debug\CPS_NEGOCIO.pdb
